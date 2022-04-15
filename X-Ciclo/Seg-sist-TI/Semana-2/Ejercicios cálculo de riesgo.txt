@@ -1,0 +1,20 @@
+Expectativa de pérdida simple = Factor de exposición * Valor del activo
+SLE = FE * VA
+Si VA = 1000 y FE = 10%
+SLE = 1000 * 10% = 100
+
+Expectiva de pérdida anual = SLE * 
+ALE = SLE * ARO
+Si ARO = 5 veces al año
+ALE = 100 * 5 = 500
+
+Si compraremos un control, se debe cumplir ALE > CONTROL
+
+Dado que ALE = 500, si un proveedor nos ofrece un control anual por 1000, no debemos adquirir el control se debería
+busca uno más económico ya que CONTROL > ALE
+
+
+CALCULO ROSI
+-------------
+
+ROSI

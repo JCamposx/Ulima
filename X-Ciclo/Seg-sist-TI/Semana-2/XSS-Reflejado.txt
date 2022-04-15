@@ -1,0 +1,15 @@
+<script>alert(1)</script>
+
+<style>
+	body {
+		// background-color: black;
+		background-image: url("https://as01.epimg.net/epik/imagenes/2020/06/08/portada/1591619131_634844_1591619268_noticia_normal.jpg")
+	}
+</style>
+
+<script>
+	document.body.style.backgroundImage = "url('https://as01.epimg.net/epik/imagenes/2020/06/08/portada/1591619131_634844_1591619268_noticia_normal.jpg')"
+</script>
+
+// Si la página responde, tiene vulnerabilidad de XSS Reflejado
+// Uno de más alto riesgo es cross-side scripting almacenado, este almacena el script en la base de datos de la web
