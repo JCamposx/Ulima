@@ -1,8 +1,7 @@
-
 EXAMEN ESCRITO 1
 ----------------
 
-1. Conceptos 5pts
-2. Riesgo cuantitativo ALE/ROSI 5pts
-3. Invntario de activos 5pts
-4. Ejercicio SQL Injection y/o XSS Reflection
+1. Conceptos					5pts
+2. Riesgo cuantitativo (ALE/ROSI)		5pts
+3. Invntario de activos				5pts
+4. Ejercicio SQL Injection y/o XSS Reflection	5pts
