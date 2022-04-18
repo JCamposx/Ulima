@@ -1,20 +1,28 @@
+CÁLCULO DEL RIESGO
+------------------
+
 Expectativa de pérdida simple = Factor de exposición * Valor del activo
 SLE = FE * VA
+
 Si VA = 1000 y FE = 10%
 SLE = 1000 * 10% = 100
 
-Expectiva de pérdida anual = SLE * 
+
+Expectiva de pérdida anual = SLE * Frecuencia anual
 ALE = SLE * ARO
+
 Si ARO = 5 veces al año
 ALE = 100 * 5 = 500
 
-Si compraremos un control, se debe cumplir ALE > CONTROL
 
-Dado que ALE = 500, si un proveedor nos ofrece un control anual por 1000, no debemos adquirir el control se debería
-busca uno más económico ya que CONTROL > ALE
+Si vamos a comprar un control, se debe cumplir que ALE > CONTROL
 
+Dado que ALE = 500, si un proveedor nos ofrece un control anual por 1000, no debemos adquirir el control se debería buscar uno más económico ya que CONTROL > ALE
+Sin embargo, si por ejemplo otro proveedor nos ofrece el primer año un costo de 1000, pero para los siguientes un mantenimiento de 10, deberíamos de aceptar ya que a largo plazo se cumpliría que ALE > CONTROL.
+
+***********************************************
 
 CALCULO ROSI
--------------
+------------
 
-ROSI
+ROSI = (ALE*<Ratio de mitigación del control> - <Costo del control, de la solución>) / <Costo del control, de la solución>

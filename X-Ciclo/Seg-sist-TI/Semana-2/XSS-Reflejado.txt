@@ -1,4 +1,12 @@
+Probado en https://demo.testfire.net/
+
+XSS Reflejado (Cross-site scripting reflejado) - Script local que pasa al backend de la página web y lo refleja en el frontend de la página web.
+
+Vamos al buscador y colocamos, por ejemplo, ulima. Vemos que como respuesta nos devuelve lo mismo que colocamos en la barra de búsqueda, por lo que es probable que la página web tenga vulnerabilidad de XSS.
+
+Si colocamos
 <script>alert(1)</script>
+vemos que nos bota el alert, por lo que la página web tiene la vulnerabilidad de XSS Reflejado. De este modo, podemos correr cualquier script de la página y lo reflejará, como los siguientes.
 
 <style>
 	body {
@@ -11,5 +19,4 @@
 	document.body.style.backgroundImage = "url('https://as01.epimg.net/epik/imagenes/2020/06/08/portada/1591619131_634844_1591619268_noticia_normal.jpg')"
 </script>
 
-// Si la página responde, tiene vulnerabilidad de XSS Reflejado
-// Uno de más alto riesgo es cross-side scripting almacenado, este almacena el script en la base de datos de la web
+Uno de más alto riesgo es cross-side scripting almacenado, este almacena el script en la base de datos de la página web.
