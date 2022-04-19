@@ -4,7 +4,9 @@ Luego del url, ir agregando " order by 1" de manera incremental hasta que nos de
 
 En este caso, con " order by 4" nos botó un error. Esto nos indica que, en la tabla que estamos manipulando, existen 3 columnas.
 
-Sabiendo la cantidad de columnas que tiene la base de datos de la página web, podemos cambiar el artist por -1 y luego agregar " order by 1,2,3". Con esto vemos que estamos ejecutando una consulta en la base de datos, estamos extrayendo información de esta.
+Sabiendo la cantidad de columnas que tiene la base de datos de la página web, podemos cambiar
+el artist por -1 y luego agregar " union select 1,2,3". Con esto vemos que estamos ejecutando
+una consulta en la base de datos, estamos extrayendo información de esta.
 
 Ahora, si con lo de antes en lugar de 2 colocamos "@@version" y en vez de 3 colocamos "user()", vemos que estamos extrayendo la versión y el usuario de la base de datos.
 
