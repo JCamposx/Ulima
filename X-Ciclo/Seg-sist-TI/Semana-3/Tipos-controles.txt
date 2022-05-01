@@ -1,0 +1,19 @@
+C. PREVENTIVOS
+--------------
+Control de acceso
+IPS
+Conscientización
+
+
+C. DETECTIVOS
+-------------
+IDS
+Sistema de monitoreo
+SIEM
+
+
+C. CORRECTIVOS
+--------------
+Planes de continuidad de negocio
+Backups
+Levantar un sistema alterno
