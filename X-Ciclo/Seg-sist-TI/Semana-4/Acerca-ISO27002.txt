@@ -1,0 +1,11 @@
+NUEVOS CONTROLES
+----------------
+
+5.7. Inteligencia sobre amenazas
+Es una actividad de seguridad que, cuando tú sospoechas que hay una instrusión, lo suyo es investigar esa amenaza y recaudar toda la información necesaria sobre esa amenaza.
+
+8.10. Eliminación de información
+Si se donasen computadoras obsoletas, se debería toda la información que estas contengan.
+
+8.28. Codificación segura
+

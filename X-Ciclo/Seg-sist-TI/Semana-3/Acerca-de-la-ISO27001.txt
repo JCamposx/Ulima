@@ -1,0 +1,12 @@
+ACERCA DE LA ISO 27001
+----------------------
+
+Las cláusulas 4, 5, 6 y 7 son parte de lo que llamamos el enfoque PDSA, que es la planificación del sistema de gestión de seguridad de sistemas de información.
+
+Para esta planificación, mínimo se asigna un tiempo de 2 a 3 meses porque se tiene que definir información documentada como el alcance, definir la política, los roles y responsabilidades, etc. (Puntos 3 y 4 en la ISO27001)
+
+Para la planifición, se diseña la metodología de riesgos. (Punto 6 en la ISO27001)
+
+Para el soporte, son los recursos que se van a asignar, para seguridad podría ser capacitaciones, tecnología, proveedores, etc. En cuanto a la comunicación, se define cómo se establecen los canales de comunicación de la empresa, desde el gerente general hasta los trabajadores de puesto más bajo de la organización. (Punto 7 en la ISO27001)
+
+En el Anexo A se tienen los 114 controles.
