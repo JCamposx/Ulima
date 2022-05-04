@@ -12,15 +12,6 @@
 			"name": "Modelado de negocio",
 			"ownedElements": [
 				{
-					"_type": "UMLClassDiagram",
-					"_id": "AAAAAAFF+qBtyKM79qY=",
-					"_parent": {
-						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
-					},
-					"name": "Main",
-					"defaultDiagram": true
-				},
-				{
 					"_type": "UMLUseCaseDiagram",
 					"_id": "AAAAAAGAhoZsvn4rcl4=",
 					"_parent": {
@@ -57,8 +48,8 @@
 											"visible": false,
 											"fillColor": "#d8f2ff",
 											"font": "Arial;13;0",
-											"left": 310.5,
-											"top": 316,
+											"left": 6006.5,
+											"top": 8668,
 											"width": 112,
 											"height": 13
 										},
@@ -70,9 +61,9 @@
 											},
 											"fillColor": "#d8f2ff",
 											"font": "Arial;13;1",
-											"left": 299,
-											"top": 374,
-											"width": 55,
+											"left": 3147.5,
+											"top": 4550,
+											"width": 60,
 											"height": 26,
 											"text": "Contactar clientes",
 											"wordWrap": true
@@ -86,7 +77,8 @@
 											"visible": false,
 											"fillColor": "#d8f2ff",
 											"font": "Arial;13;0",
-											"top": -112,
+											"left": 5696,
+											"top": 8240,
 											"width": 162.5888671875,
 											"height": 13,
 											"text": "(from Modelado de negocio)"
@@ -100,15 +92,16 @@
 											"visible": false,
 											"fillColor": "#d8f2ff",
 											"font": "Arial;13;0",
-											"top": -112,
+											"left": 5696,
+											"top": 8240,
 											"horizontalAlignment": 1,
 											"wordWrap": true
 										}
 									],
 									"fillColor": "#d8f2ff",
 									"font": "Arial;13;0",
-									"left": 294,
-									"top": 367,
+									"left": 3142.5,
+									"top": 4543,
 									"width": 70.67724609375,
 									"height": 38,
 									"stereotypeLabel": {
@@ -136,7 +129,8 @@
 									"visible": false,
 									"fillColor": "#d8f2ff",
 									"font": "Arial;13;0",
-									"top": -56,
+									"left": 2848,
+									"top": 4120,
 									"width": 10,
 									"height": 10
 								},
@@ -152,7 +146,8 @@
 									"visible": false,
 									"fillColor": "#d8f2ff",
 									"font": "Arial;13;0",
-									"top": -56,
+									"left": 2848,
+									"top": 4120,
 									"width": 10,
 									"height": 10
 								},
@@ -168,7 +163,8 @@
 									"visible": false,
 									"fillColor": "#d8f2ff",
 									"font": "Arial;13;0",
-									"top": -56,
+									"left": 2848,
+									"top": 4120,
 									"width": 10,
 									"height": 10
 								},
@@ -184,7 +180,8 @@
 									"visible": false,
 									"fillColor": "#d8f2ff",
 									"font": "Arial;13;0",
-									"top": -56,
+									"left": 2848,
+									"top": 4120,
 									"width": 10,
 									"height": 10
 								},
@@ -200,7 +197,8 @@
 									"visible": false,
 									"fillColor": "#d8f2ff",
 									"font": "Arial;13;0",
-									"top": -56,
+									"left": 2848,
+									"top": 4120,
 									"width": 10,
 									"height": 10
 								}
@@ -208,9 +206,9 @@
 							"fillColor": "#d8f2ff",
 							"font": "Arial;13;0",
 							"containerChangeable": true,
-							"left": 280,
-							"top": 360,
-							"width": 93,
+							"left": 3128,
+							"top": 4536,
+							"width": 99,
 							"height": 53,
 							"autoResize": true,
 							"nameCompartment": {
@@ -264,8 +262,8 @@
 											"visible": false,
 											"fillColor": "#d8f2ff",
 											"font": "Arial;13;0",
-											"left": 318,
-											"top": 357.5,
+											"left": 6014,
+											"top": 8709.5,
 											"width": 110,
 											"height": 13
 										},
@@ -277,9 +275,9 @@
 											},
 											"fillColor": "#d8f2ff",
 											"font": "Arial;13;1",
-											"left": 305,
-											"top": 454,
-											"width": 46,
+											"left": 3153.5,
+											"top": 4630,
+											"width": 49,
 											"height": 26,
 											"text": "Realizar pedido",
 											"wordWrap": true
@@ -293,8 +291,8 @@
 											"visible": false,
 											"fillColor": "#d8f2ff",
 											"font": "Arial;13;0",
-											"left": -16,
-											"top": -192,
+											"left": 5680,
+											"top": 8160,
 											"width": 162.5888671875,
 											"height": 13,
 											"text": "(from Modelado de negocio)"
@@ -308,16 +306,16 @@
 											"visible": false,
 											"fillColor": "#d8f2ff",
 											"font": "Arial;13;0",
-											"left": -16,
-											"top": -192,
+											"left": 5680,
+											"top": 8160,
 											"horizontalAlignment": 1,
 											"wordWrap": true
 										}
 									],
 									"fillColor": "#d8f2ff",
 									"font": "Arial;13;0",
-									"left": 300,
-									"top": 447,
+									"left": 3148.5,
+									"top": 4623,
 									"width": 59.86083984375,
 									"height": 38,
 									"stereotypeLabel": {
@@ -345,8 +343,8 @@
 									"visible": false,
 									"fillColor": "#d8f2ff",
 									"font": "Arial;13;0",
-									"left": -8,
-									"top": -96,
+									"left": 2840,
+									"top": 4080,
 									"width": 10,
 									"height": 10
 								},
@@ -362,8 +360,8 @@
 									"visible": false,
 									"fillColor": "#d8f2ff",
 									"font": "Arial;13;0",
-									"left": -8,
-									"top": -96,
+									"left": 2840,
+									"top": 4080,
 									"width": 10,
 									"height": 10
 								},
@@ -379,8 +377,8 @@
 									"visible": false,
 									"fillColor": "#d8f2ff",
 									"font": "Arial;13;0",
-									"left": -8,
-									"top": -96,
+									"left": 2840,
+									"top": 4080,
 									"width": 10,
 									"height": 10
 								},
@@ -396,8 +394,8 @@
 									"visible": false,
 									"fillColor": "#d8f2ff",
 									"font": "Arial;13;0",
-									"left": -8,
-									"top": -96,
+									"left": 2840,
+									"top": 4080,
 									"width": 10,
 									"height": 10
 								},
@@ -413,8 +411,8 @@
 									"visible": false,
 									"fillColor": "#d8f2ff",
 									"font": "Arial;13;0",
-									"left": -8,
-									"top": -96,
+									"left": 2840,
+									"top": 4080,
 									"width": 10,
 									"height": 10
 								}
@@ -422,9 +420,9 @@
 							"fillColor": "#d8f2ff",
 							"font": "Arial;13;0",
 							"containerChangeable": true,
-							"left": 288,
-							"top": 440,
-							"width": 80,
+							"left": 3136,
+							"top": 4616,
+							"width": 84,
 							"height": 53,
 							"autoResize": true,
 							"nameCompartment": {
@@ -478,8 +476,8 @@
 											"visible": false,
 											"fillColor": "#d8f2ff",
 											"font": "Arial;13;0",
-											"left": -144,
-											"top": -384,
+											"left": 5552,
+											"top": 7968,
 											"height": 13
 										},
 										{
@@ -490,9 +488,9 @@
 											},
 											"fillColor": "#d8f2ff",
 											"font": "Arial;13;1",
-											"left": 305,
-											"top": 542,
-											"width": 46,
+											"left": 3153.5,
+											"top": 4718,
+											"width": 49,
 											"height": 26,
 											"text": "Realizar venta",
 											"wordWrap": true
@@ -506,8 +504,8 @@
 											"visible": false,
 											"fillColor": "#d8f2ff",
 											"font": "Arial;13;0",
-											"left": -144,
-											"top": -384,
+											"left": 5552,
+											"top": 7968,
 											"width": 162.5888671875,
 											"height": 13,
 											"text": "(from Modelado de negocio)"
@@ -521,16 +519,16 @@
 											"visible": false,
 											"fillColor": "#d8f2ff",
 											"font": "Arial;13;0",
-											"left": -144,
-											"top": -384,
+											"left": 5552,
+											"top": 7968,
 											"horizontalAlignment": 1,
 											"wordWrap": true
 										}
 									],
 									"fillColor": "#d8f2ff",
 									"font": "Arial;13;0",
-									"left": 300,
-									"top": 535,
+									"left": 3148.5,
+									"top": 4711,
 									"width": 59.86083984375,
 									"height": 38,
 									"stereotypeLabel": {
@@ -558,8 +556,8 @@
 									"visible": false,
 									"fillColor": "#d8f2ff",
 									"font": "Arial;13;0",
-									"left": -72,
-									"top": -192,
+									"left": 2776,
+									"top": 3984,
 									"width": 10,
 									"height": 10
 								},
@@ -575,8 +573,8 @@
 									"visible": false,
 									"fillColor": "#d8f2ff",
 									"font": "Arial;13;0",
-									"left": -72,
-									"top": -192,
+									"left": 2776,
+									"top": 3984,
 									"width": 10,
 									"height": 10
 								},
@@ -592,8 +590,8 @@
 									"visible": false,
 									"fillColor": "#d8f2ff",
 									"font": "Arial;13;0",
-									"left": -72,
-									"top": -192,
+									"left": 2776,
+									"top": 3984,
 									"width": 10,
 									"height": 10
 								},
@@ -609,8 +607,8 @@
 									"visible": false,
 									"fillColor": "#d8f2ff",
 									"font": "Arial;13;0",
-									"left": -72,
-									"top": -192,
+									"left": 2776,
+									"top": 3984,
 									"width": 10,
 									"height": 10
 								},
@@ -626,8 +624,8 @@
 									"visible": false,
 									"fillColor": "#d8f2ff",
 									"font": "Arial;13;0",
-									"left": -72,
-									"top": -192,
+									"left": 2776,
+									"top": 3984,
 									"width": 10,
 									"height": 10
 								}
@@ -635,9 +633,9 @@
 							"fillColor": "#d8f2ff",
 							"font": "Arial;13;0",
 							"containerChangeable": true,
-							"left": 288,
-							"top": 528,
-							"width": 80,
+							"left": 3136,
+							"top": 4704,
+							"width": 84,
 							"height": 53,
 							"autoResize": true,
 							"nameCompartment": {
@@ -691,8 +689,8 @@
 											"visible": false,
 											"fillColor": "#d8f2ff",
 											"font": "Arial;13;0",
-											"left": 96,
-											"top": -160,
+											"left": 5792,
+											"top": 8192,
 											"height": 13
 										},
 										{
@@ -703,8 +701,8 @@
 											},
 											"fillColor": "#d8f2ff",
 											"font": "Arial;13;1",
-											"left": 197,
-											"top": 493,
+											"left": 3045,
+											"top": 4669,
 											"width": 43.341796875,
 											"height": 13,
 											"text": "Cliente"
@@ -718,8 +716,8 @@
 											"visible": false,
 											"fillColor": "#d8f2ff",
 											"font": "Arial;13;0",
-											"left": 96,
-											"top": -160,
+											"left": 5792,
+											"top": 8192,
 											"width": 162.5888671875,
 											"height": 13,
 											"text": "(from Modelado de negocio)"
@@ -733,16 +731,16 @@
 											"visible": false,
 											"fillColor": "#d8f2ff",
 											"font": "Arial;13;0",
-											"left": 96,
-											"top": -160,
+											"left": 5792,
+											"top": 8192,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"fillColor": "#d8f2ff",
 									"font": "Arial;13;0",
-									"left": 192,
-									"top": 486,
+									"left": 3040,
+									"top": 4662,
 									"width": 53.341796875,
 									"height": 25,
 									"stereotypeLabel": {
@@ -770,8 +768,8 @@
 									"visible": false,
 									"fillColor": "#d8f2ff",
 									"font": "Arial;13;0",
-									"left": 32,
-									"top": -88,
+									"left": 2880,
+									"top": 4072,
 									"width": 10,
 									"height": 10
 								},
@@ -787,8 +785,8 @@
 									"visible": false,
 									"fillColor": "#d8f2ff",
 									"font": "Arial;13;0",
-									"left": 32,
-									"top": -88,
+									"left": 2880,
+									"top": 4072,
 									"width": 10,
 									"height": 10
 								},
@@ -804,8 +802,8 @@
 									"visible": false,
 									"fillColor": "#d8f2ff",
 									"font": "Arial;13;0",
-									"left": 32,
-									"top": -88,
+									"left": 2880,
+									"top": 4072,
 									"width": 10,
 									"height": 10
 								},
@@ -821,8 +819,8 @@
 									"visible": false,
 									"fillColor": "#d8f2ff",
 									"font": "Arial;13;0",
-									"left": 32,
-									"top": -88,
+									"left": 2880,
+									"top": 4072,
 									"width": 10,
 									"height": 10
 								}
@@ -830,8 +828,8 @@
 							"fillColor": "#d8f2ff",
 							"font": "Arial;13;0",
 							"containerChangeable": true,
-							"left": 192,
-							"top": 432,
+							"left": 3040,
+							"top": 4608,
 							"width": 53.341796875,
 							"height": 80,
 							"nameCompartment": {
@@ -881,8 +879,8 @@
 											"visible": false,
 											"fillColor": "#d8f2ff",
 											"font": "Arial;13;0",
-											"left": -48,
-											"top": -208,
+											"left": 5648,
+											"top": 8144,
 											"height": 13
 										},
 										{
@@ -893,8 +891,8 @@
 											},
 											"fillColor": "#d8f2ff",
 											"font": "Arial;13;1",
-											"left": 421,
-											"top": 493,
+											"left": 3269,
+											"top": 4669,
 											"width": 62.130859375,
 											"height": 39,
 											"text": "Gerente de marketing",
@@ -909,8 +907,8 @@
 											"visible": false,
 											"fillColor": "#d8f2ff",
 											"font": "Arial;13;0",
-											"left": -48,
-											"top": -208,
+											"left": 5648,
+											"top": 8144,
 											"width": 162.5888671875,
 											"height": 13,
 											"text": "(from Modelado de negocio)"
@@ -924,16 +922,16 @@
 											"visible": false,
 											"fillColor": "#d8f2ff",
 											"font": "Arial;13;0",
-											"left": -48,
-											"top": -208,
+											"left": 5648,
+											"top": 8144,
 											"horizontalAlignment": 1,
 											"wordWrap": true
 										}
 									],
 									"fillColor": "#d8f2ff",
 									"font": "Arial;13;0",
-									"left": 416,
-									"top": 486,
+									"left": 3264,
+									"top": 4662,
 									"width": 72.130859375,
 									"height": 51,
 									"stereotypeLabel": {
@@ -961,8 +959,8 @@
 									"visible": false,
 									"fillColor": "#d8f2ff",
 									"font": "Arial;13;0",
-									"left": -24,
-									"top": -104,
+									"left": 2824,
+									"top": 4072,
 									"width": 10,
 									"height": 10
 								},
@@ -978,8 +976,8 @@
 									"visible": false,
 									"fillColor": "#d8f2ff",
 									"font": "Arial;13;0",
-									"left": -24,
-									"top": -104,
+									"left": 2824,
+									"top": 4072,
 									"width": 10,
 									"height": 10
 								},
@@ -995,8 +993,8 @@
 									"visible": false,
 									"fillColor": "#d8f2ff",
 									"font": "Arial;13;0",
-									"left": -24,
-									"top": -104,
+									"left": 2824,
+									"top": 4072,
 									"width": 10,
 									"height": 10
 								},
@@ -1012,8 +1010,8 @@
 									"visible": false,
 									"fillColor": "#d8f2ff",
 									"font": "Arial;13;0",
-									"left": -24,
-									"top": -104,
+									"left": 2824,
+									"top": 4072,
 									"width": 10,
 									"height": 10
 								}
@@ -1021,8 +1019,8 @@
 							"fillColor": "#d8f2ff",
 							"font": "Arial;13;0",
 							"containerChangeable": true,
-							"left": 416,
-							"top": 432,
+							"left": 3264,
+							"top": 4608,
 							"width": 72.130859375,
 							"height": 106,
 							"nameCompartment": {
@@ -1072,7 +1070,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"top": -32,
+											"left": 5696,
+											"top": 8320,
 											"height": 13
 										},
 										{
@@ -1082,8 +1081,8 @@
 												"$ref": "AAAAAAGAhpCo3IFejsA="
 											},
 											"font": "Arial;13;1",
-											"left": 149,
-											"top": 311,
+											"left": 2997,
+											"top": 4487,
 											"width": 375,
 											"height": 13,
 											"text": "Gestión de ventas"
@@ -1096,7 +1095,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"top": -32,
+											"left": 5696,
+											"top": 8320,
 											"width": 162.5888671875,
 											"height": 13,
 											"text": "(from Modelado de negocio)"
@@ -1109,14 +1109,15 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"top": -32,
+											"left": 5696,
+											"top": 8320,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 144,
-									"top": 304,
+									"left": 2992,
+									"top": 4480,
 									"width": 385,
 									"height": 25,
 									"stereotypeLabel": {
@@ -1134,8 +1135,8 @@
 								}
 							],
 							"font": "Arial;13;0",
-							"left": 144,
-							"top": 304,
+							"left": 2992,
+							"top": 4480,
 							"width": 385,
 							"height": 313,
 							"nameCompartment": {
@@ -1163,8 +1164,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 265,
-									"top": 448,
+									"left": 3113,
+									"top": 4624,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -1184,8 +1185,8 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 264,
-									"top": 433,
+									"left": 3112,
+									"top": 4609,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -1205,8 +1206,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 266,
-									"top": 477,
+									"left": 3114,
+									"top": 4653,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -1226,8 +1227,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 270,
-									"top": 447,
+									"left": 3118,
+									"top": 4623,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -1247,8 +1248,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 271,
-									"top": 434,
+									"left": 3119,
+									"top": 4610,
 									"height": 13,
 									"alpha": 0.7853981633974483,
 									"distance": 40,
@@ -1268,8 +1269,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 267,
-									"top": 475,
+									"left": 3115,
+									"top": 4651,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -1289,8 +1290,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 260,
-									"top": 448,
+									"left": 3108,
+									"top": 4624,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
@@ -1309,8 +1310,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 257,
-									"top": 435,
+									"left": 3105,
+									"top": 4611,
 									"height": 13,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -1329,8 +1330,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 265,
-									"top": 475,
+									"left": 3113,
+									"top": 4651,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -1349,6 +1350,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
+									"left": 2848,
+									"top": 4176,
 									"width": 10,
 									"height": 10
 								},
@@ -1363,6 +1366,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
+									"left": 2848,
+									"top": 4176,
 									"width": 10,
 									"height": 10
 								}
@@ -1375,7 +1380,7 @@
 								"$ref": "AAAAAAGAho2q8oCbIv4="
 							},
 							"lineStyle": 1,
-							"points": "245:470;287:468",
+							"points": "3093:4646;3135:4644",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGAhpSMSYI3RqA="
@@ -1433,8 +1438,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 276,
-									"top": 490,
+									"left": 3125,
+									"top": 4666,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -1454,8 +1459,8 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 285,
-									"top": 478,
+									"left": 3134,
+									"top": 4654,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -1475,8 +1480,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 259,
-									"top": 515,
+									"left": 3108,
+									"top": 4691,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -1496,8 +1501,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 274,
-									"top": 489,
+									"left": 3122,
+									"top": 4664,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -1517,8 +1522,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 284,
-									"top": 480,
+									"left": 3132,
+									"top": 4655,
 									"height": 13,
 									"alpha": 0.7853981633974483,
 									"distance": 40,
@@ -1538,8 +1543,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 254,
-									"top": 508,
+									"left": 3102,
+									"top": 4683,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -1559,8 +1564,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 280,
-									"top": 493,
+									"left": 3129,
+									"top": 4669,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
@@ -1579,8 +1584,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 286,
-									"top": 481,
+									"left": 3135,
+									"top": 4657,
 									"height": 13,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -1599,8 +1604,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 267,
-									"top": 518,
+									"left": 3116,
+									"top": 4694,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -1619,6 +1624,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
+									"left": 2848,
+									"top": 4176,
 									"width": 10,
 									"height": 10
 								},
@@ -1633,6 +1640,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
+									"left": 2848,
+									"top": 4176,
 									"width": 10,
 									"height": 10
 								}
@@ -1645,7 +1654,7 @@
 								"$ref": "AAAAAAGAho2q8oCbIv4="
 							},
 							"lineStyle": 1,
-							"points": "245:492;292:527",
+							"points": "3093:4667;3141:4703",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGAhpSpm4OLPf8="
@@ -1703,8 +1712,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 377,
-									"top": 439,
+									"left": 3227,
+									"top": 4615,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -1724,8 +1733,8 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 368,
-									"top": 451,
+									"left": 3218,
+									"top": 4627,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -1745,8 +1754,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 396,
-									"top": 416,
+									"left": 3246,
+									"top": 4592,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -1766,8 +1775,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 385,
-									"top": 445,
+									"left": 3233,
+									"top": 4620,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -1787,8 +1796,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 375,
-									"top": 454,
+									"left": 3223,
+									"top": 4629,
 									"height": 13,
 									"alpha": 0.7853981633974483,
 									"distance": 40,
@@ -1808,8 +1817,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 405,
-									"top": 426,
+									"left": 3254,
+									"top": 4601,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -1829,8 +1838,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 371,
-									"top": 434,
+									"left": 3221,
+									"top": 4610,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
@@ -1849,8 +1858,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 364,
-									"top": 446,
+									"left": 3215,
+									"top": 4622,
 									"height": 13,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -1869,8 +1878,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 384,
-									"top": 410,
+									"left": 3235,
+									"top": 4586,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -1889,6 +1898,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
+									"left": 2848,
+									"top": 4176,
 									"width": 10,
 									"height": 10
 								},
@@ -1903,6 +1914,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
+									"left": 2848,
+									"top": 4176,
 									"width": 10,
 									"height": 10
 								}
@@ -1915,7 +1928,7 @@
 								"$ref": "AAAAAAGAhpBX9IEryHI="
 							},
 							"lineStyle": 1,
-							"points": "415:456;360:413",
+							"points": "3263:4631;3211:4589",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGAhpS8AIU5HAk="
@@ -1951,6 +1964,35 @@
 							"headQualifiersCompartment": {
 								"$ref": "AAAAAAGAhpS8AYVDsY4="
 							}
+						},
+						{
+							"_type": "UMLNoteView",
+							"_id": "AAAAAAGAkBawapMGG9s=",
+							"_parent": {
+								"$ref": "AAAAAAGAhoZsvn4rcl4="
+							},
+							"font": "Arial;13;0",
+							"left": 3280,
+							"top": 4504,
+							"width": 84.30810546875,
+							"height": 51,
+							"text": "Esto es un comentario"
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAGAkBbyKJfXbxw=",
+							"_parent": {
+								"$ref": "AAAAAAGAhoZsvn4rcl4="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAGAkBawapMGG9s="
+							},
+							"tail": {
+								"$ref": "AAAAAAGAhpBX9IEryHI="
+							},
+							"lineStyle": 1,
+							"points": "3308:4607;3317:4555"
 						}
 					]
 				},
@@ -2091,6 +2133,22 @@
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
 					"name": "Gestión de ventas"
+				},
+				{
+					"_type": "UMLPackage",
+					"_id": "AAAAAAGAkC/Hq5pHygs=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Package1"
+				},
+				{
+					"_type": "UMLUseCaseSubject",
+					"_id": "AAAAAAGAkC/VOJ5gtw4=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "UseCaseSubject1"
 				}
 			]
 		},
@@ -2100,7 +2158,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFF+h6SjaM2Hec="
 			},
-			"name": "Ejercicio 1",
+			"name": "Ejercicio Clínica",
 			"ownedElements": [
 				{
 					"_type": "UMLUseCaseDiagram",
@@ -2108,7 +2166,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGAhq4e6umVUlE="
 					},
-					"name": "Ejercicio 1",
+					"name": "Ejercicio Clínica",
 					"ownedViews": [
 						{
 							"_type": "UMLActorView",
@@ -2166,9 +2224,9 @@
 											"font": "Arial;13;0",
 											"left": 80,
 											"top": -32,
-											"width": 98.236328125,
+											"width": 130.74267578125,
 											"height": 13,
-											"text": "(from Ejercicio 1)"
+											"text": "(from Ejercicio Clínica)"
 										},
 										{
 											"_type": "LabelView",
@@ -2349,9 +2407,9 @@
 											"font": "Arial;13;0",
 											"left": 80,
 											"top": -624,
-											"width": 98.236328125,
+											"width": 130.74267578125,
 											"height": 13,
-											"text": "(from Ejercicio 1)"
+											"text": "(from Ejercicio Clínica)"
 										},
 										{
 											"_type": "LabelView",
@@ -2532,9 +2590,9 @@
 											"font": "Arial;13;0",
 											"left": -48,
 											"top": -192,
-											"width": 98.236328125,
+											"width": 130.74267578125,
 											"height": 13,
-											"text": "(from Ejercicio 1)"
+											"text": "(from Ejercicio Clínica)"
 										},
 										{
 											"_type": "LabelView",
@@ -2715,9 +2773,9 @@
 											"font": "Arial;13;0",
 											"left": -64,
 											"top": -160,
-											"width": 98.236328125,
+											"width": 130.74267578125,
 											"height": 13,
-											"text": "(from Ejercicio 1)"
+											"text": "(from Ejercicio Clínica)"
 										},
 										{
 											"_type": "LabelView",
@@ -2987,9 +3045,9 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"width": 98.236328125,
+											"width": 130.74267578125,
 											"height": 13,
-											"text": "(from Ejercicio 1)"
+											"text": "(from Ejercicio Clínica)"
 										},
 										{
 											"_type": "LabelView",
@@ -3086,9 +3144,9 @@
 											"font": "Arial;13;0",
 											"left": -464,
 											"top": -416,
-											"width": 98.236328125,
+											"width": 130.74267578125,
 											"height": 13,
-											"text": "(from Ejercicio 1)"
+											"text": "(from Ejercicio Clínica)"
 										},
 										{
 											"_type": "LabelView",
@@ -3188,9 +3246,9 @@
 											"font": "Arial;13;0",
 											"left": -96,
 											"top": -80,
-											"width": 98.236328125,
+											"width": 130.74267578125,
 											"height": 13,
-											"text": "(from Ejercicio 1)"
+											"text": "(from Ejercicio Clínica)"
 										},
 										{
 											"_type": "LabelView",
@@ -3390,9 +3448,9 @@
 											"font": "Arial;13;0",
 											"left": -48,
 											"top": -128,
-											"width": 98.236328125,
+											"width": 130.74267578125,
 											"height": 13,
-											"text": "(from Ejercicio 1)"
+											"text": "(from Ejercicio Clínica)"
 										},
 										{
 											"_type": "LabelView",
@@ -3591,9 +3649,9 @@
 											"font": "Arial;13;0",
 											"left": -26,
 											"top": -220,
-											"width": 98.236328125,
+											"width": 130.74267578125,
 											"height": 13,
-											"text": "(from Ejercicio 1)"
+											"text": "(from Ejercicio Clínica)"
 										},
 										{
 											"_type": "LabelView",
@@ -3771,9 +3829,9 @@
 											"font": "Arial;13;0",
 											"left": -134,
 											"top": -218,
-											"width": 98.236328125,
+											"width": 130.74267578125,
 											"height": 13,
-											"text": "(from Ejercicio 1)"
+											"text": "(from Ejercicio Clínica)"
 										},
 										{
 											"_type": "LabelView",
@@ -4046,9 +4104,9 @@
 											"font": "Arial;13;0",
 											"left": 414,
 											"top": -172,
-											"width": 98.236328125,
+											"width": 130.74267578125,
 											"height": 13,
-											"text": "(from Ejercicio 1)"
+											"text": "(from Ejercicio Clínica)"
 										},
 										{
 											"_type": "LabelView",
@@ -4229,9 +4287,9 @@
 											"font": "Arial;13;0",
 											"left": 342,
 											"top": -232,
-											"width": 98.236328125,
+											"width": 130.74267578125,
 											"height": 13,
-											"text": "(from Ejercicio 1)"
+											"text": "(from Ejercicio Clínica)"
 										},
 										{
 											"_type": "LabelView",
@@ -4412,9 +4470,9 @@
 											"font": "Arial;13;0",
 											"left": 60,
 											"top": -322,
-											"width": 98.236328125,
+											"width": 130.74267578125,
 											"height": 13,
-											"text": "(from Ejercicio 1)"
+											"text": "(from Ejercicio Clínica)"
 										},
 										{
 											"_type": "LabelView",
@@ -4613,9 +4671,9 @@
 											"font": "Arial;13;0",
 											"left": 22,
 											"top": -270,
-											"width": 98.236328125,
+											"width": 130.74267578125,
 											"height": 13,
-											"text": "(from Ejercicio 1)"
+											"text": "(from Ejercicio Clínica)"
 										},
 										{
 											"_type": "LabelView",
