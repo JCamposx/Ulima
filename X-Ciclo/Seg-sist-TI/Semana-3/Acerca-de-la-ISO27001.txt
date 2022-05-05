@@ -1,7 +1,14 @@
 ACERCA DE LA ISO 27001
 ----------------------
 
-Las cláusulas 4, 5, 6 y 7 son parte de lo que llamamos el enfoque PDSA, que es la planificación del sistema de gestión de seguridad de sistemas de información.
+Es un sistema para implementar un sistema de gestión de seguridad de la información (PDCA).
+ 
+P - Le corresponde las cláusulas 4, 5, 6 y 7
+D - Le corresponde la cláusula 8
+C - Le corresponde la cláusula 9
+A - Le corresponde la cláusula 10
+
+Las cláusulas 4, 5, 6 y 7 son parte de lo que llamamos el enfoque PDCA, que es la planificación del sistema de gestión de seguridad de sistemas de información.
 
 Para esta planificación, mínimo se asigna un tiempo de 2 a 3 meses porque se tiene que definir información documentada como el alcance, definir la política, los roles y responsabilidades, etc. (Puntos 3 y 4 en la ISO27001)
 
@@ -10,3 +17,19 @@ Para la planifición, se diseña la metodología de riesgos. (Punto 6 en la ISO2
 Para el soporte, son los recursos que se van a asignar, para seguridad podría ser capacitaciones, tecnología, proveedores, etc. En cuanto a la comunicación, se define cómo se establecen los canales de comunicación de la empresa, desde el gerente general hasta los trabajadores de puesto más bajo de la organización. (Punto 7 en la ISO27001)
 
 En el Anexo A se tienen los 114 controles.
+Todos estos controles orientan a un enfoque llamado Seguridad en profundidad, que consiste en proteger las siguientes capas de seguridad (en ese orden):
+- Datos
+- Sistema operativo
+- Aplicaciones (que están en la DMZ, dentro de la red interna)
+- Red interna
+- Red externa
+- Seguridad física
+- Políticas y procedimientos
+- Ser humano: es quien siempre se enfrenta a la amenaza
+El anexo A nos da controles que pueden estar en cada uno de estos anillos (ver captura)
+Principalmente se enfoca en Política y procedimientos
+También recomienda poner enfoque en la seguridad física.
+Habla tanto de seguridad de red externa (firewall, IPS perimetral) como interna (firewall interno, IPS interno, ACLs, segmentación de red)
+Por el lado de las aplicaciones, se habla de código seguro, que es responsabilidad del desarollador. Hay herramientas como Sonarqube que revisan el código fuente y te indican cuáles son las fallas de seguridad del código, para lo cual genera un informe que tiene que ser revisado por el desarrollador para que solucione las fallas de seguridad encontradas.
+A nivel de sistema operativo base, hay que tener antivirus, antimalware, software DLP (sirve para cifrar el disco, bloquear puertos USB)
+Para la capa de datos, se tiene el firewall de datos, lo que imoplica tanto en aplicaciones como en sistema operativo tener buenos passwords.
