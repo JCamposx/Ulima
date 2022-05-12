@@ -1,0 +1,12 @@
+CiberSOC (Centro de monitoreo de ciberseguridad)
+------------------------------------------------
+
+Para poder detectar accesos no autorizados, se puede hacer uso de los servicios de un CiberSOC.
+
+El CiberSOC es un servicio de seguridad que te permite contratar a una empresa autorizada en monitoreo para que te haga el monitoreo de toda la infraestructura de los diferentes controles de seguridad de la empresa.
+
+Los controles de seguridad podrían ser, por ejemplo, WAF, antivirus, firewall, IPS, filtro web, entre otros. Todos estos controles van a ser monitoreados por un sistema que se llama SIEM, que es un correlacionador de eventos. Este SIEM está dentro del CiberSOC.
+
+Lo que hará el CiberSOC es monitorear y aplicar ciertas reglas (para detectar y prevenir incidentes, respectivamente), y le dará a la empresa un informe.
+
+La desventaja del CiberSOC es que coge tecnologías de seguridad, no se integran con aplicaciones personalizadas, es más difícil la integración. Por este motivo, lor problemas de aplicaciones no los va a detectar el CiberSOC, tales como inyecciones (a menos que se tenga WAF), fallas de control de acceso, etc.

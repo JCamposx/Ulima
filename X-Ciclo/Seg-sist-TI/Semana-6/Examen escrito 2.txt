@@ -1,0 +1,10 @@
+EXAMEN ESCRITO 2
+----------------
+
+Martes 17/05
+1. Evaluación de riesgo de seguridad de la infomación           5pts
+2. Conceptos                                                    5pts
+3. Gestión de la seguridad de la informacióny y la ISO 27001    5pts
+
+Jueves 19/05
+4. Evaluación de red y explotación de vulnerabilidad            5pts
