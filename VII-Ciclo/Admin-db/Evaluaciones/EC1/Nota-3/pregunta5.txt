@@ -1,0 +1,15 @@
+create or replace procedure SPU_ESPACIO_TBS AUTHID CURRENT_USER AS
+    cursor datos is 
+        select
+            dba_tablespaces.TABLESPACE_NAME "NOMBRE",
+            sum(BYTES/1024/1024) "OCUPA",
+            sum(BYTES/1024/1024 - USER_BYTES/1024/1024) "RESERVA",
+            100 - round((sum(BYTES/1024/1024 - USER_BYTES/1024/1024) * 100 / sum(BYTES/1024/1024)),2) || '%' "LIBRE"
+        from dba_data_files, dba_tablespaces
+        where dba_tablespaces.TABLESPACE_NAME = dba_data_files.TABLESPACE_NAME
+        group by dba_tablespaces.TABLESPACE_NAME;
+begin
+    for d in datos loop
+        dbms_output.put_line(d.NOMBRE ||chr(9)|| d.OCUPA ||chr(9)|| d.RESERVA ||chr(9)|| d.LIBRE);
+    end loop; 
+end;

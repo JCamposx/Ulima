@@ -1,0 +1,56 @@
+Pregunta 2
+
+create tablespace APP datafile '/u02/oradata/DEV/app1.dbf' size 500M autoextend on next 100M maxsize 5G;
+alter tablespace APP add datafile '/u02/oradata/DEV/app2.dbf' size 500M autoextend on next 100M maxsize 5G;
+
+cd /u02/oradata/DEV
+ls -lrth
+
+create user PC3 identified by oracle;
+grant dba to PC3;
+connect PC3/oracle;
+
+CREATE TABLE USUARIO (
+    id number,
+    nombre varchar(40),
+    dni number,
+    correo varchar(40),
+    CONSTRAINT id PRIMARY KEY(id),
+    CONSTRAINT dni UNIQUE (dni)
+) tablespace APP;
+
+alter table USUARIO row store compress advanced;
+___________________________________________________________________________________________
+
+Pregunta 3
+
+alter table USUARIO storage(buffer_pool keep);
+___________________________________________________________________________________________
+
+Pregunta 4
+
+create undo tablespace TBS_UNDO datafile '/u02/oradata/DEV/tbs_undo1.dbf' size 1G;
+alter system set undo_tablespace = TBS_UNDO;
+alter system set undo_retention = 43200;
+alter tablespace TBS_UNDO retention noguarantee;
+
+select tablespace_name, RETENTION from dba_tablespaces;
+drop tablespace UNDOTBS1 including contents and datafiles;
+alter system set temp_undo_enabled = true;
+___________________________________________________________________________________________
+
+Pregunta 5
+
+create user SYSTEM identified by 123;
+grant dba to SYSTEM;
+grant create procedure to SYSTEM;
+grant select on dba_data_files to SYSTEM;
+grant select on dba_tablespaces to SYSTEM;
+
+connect SYSTEM/oracle
+copiar procedure
+commit
+salir
+sqlplus / as sysdba
+set serveroutput on
+execute SYSTEM.SPU_ESPACIO_TBS;
