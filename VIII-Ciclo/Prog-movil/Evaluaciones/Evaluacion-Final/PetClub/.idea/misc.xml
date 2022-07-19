@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/circle.xml" value="0.18" />
+        <entry key="app/src/main/res/drawable/dialog_rounded.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/edittext_background.xml" value="0.2915" />
+        <entry key="app/src/main/res/drawable/ic_baseline_pets_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_image.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_logo.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/image_background.xml" value="0.19" />
+        <entry key="app/src/main/res/drawable/img_background.xml" value="0.196" />
+        <entry key="app/src/main/res/drawable/popup_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/splash_background.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-v23/activity_login.xml" value="0.5557291666666667" />
+        <entry key="app/src/main/res/layout-v28/fragment_nueva_publicacion.xml" value="0.3145833333333333" />
+        <entry key="app/src/main/res/layout/activity_editar_perfil.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_map.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_registro.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fargment_madopcion.xml" value="0.14260385005065856" />
+        <entry key="app/src/main/res/layout/fargment_mperdida.xml" value="0.3296252927400468" />
+        <entry key="app/src/main/res/layout/fargment_npublicacion.xml" value="0.14260385005065856" />
+        <entry key="app/src/main/res/layout/fragment_datos_contacto.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_madopcion.xml" value="0.22962962962962963" />
+        <entry key="app/src/main/res/layout/fragment_mperdida.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_npublicacion.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/fragment_nueva_adopcion.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_nueva_perdida.xml" value="0.24390243902439024" />
+        <entry key="app/src/main/res/layout/fragment_nueva_publicacion.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_perfil.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_publicaciones.xml" value="0.2206435436690347" />
+        <entry key="app/src/main/res/layout/item_atvi.xml" value="0.22085248641872127" />
+        <entry key="app/src/main/res/layout/item_publicacion.xml" value="0.29333333333333333" />
+        <entry key="app/src/main/res/layout/item_tipo_edad.xml" value="0.4595981188542112" />
+        <entry key="app/src/main/res/layout/item_tipo_publicacion.xml" value="0.2204346009193481" />
+        <entry key="app/src/main/res/layout/map_activity.xml" value="0.12452987881320518" />
+        <entry key="app/src/main/res/layout/nav_header.xml" value="0.2204346009193481" />
+        <entry key="app/src/main/res/layout/popup_nueva_publicacion.xml" value="0.33" />
+        <entry key="app/src/main/res/menu/bottom_navigation.xml" value="0.21851851851851853" />
+        <entry key="app/src/main/res/menu/menu_bottom_navigation.xml" value="0.284737067122702" />
+        <entry key="app/src/main/res/menu/menu_datos_contacto.xml" value="0.24837812789620017" />
+        <entry key="app/src/main/res/menu/menu_navigation.xml" value="0.24814814814814815" />
+        <entry key="app/src/main/res/menu/menu_publicaciones.xml" value="0.24374420759962928" />
+        <entry key="app/src/main/res/menu/menu_tipo_publicacion.xml" value="0.24374420759962928" />
+        <entry key="app/src/main/res/menu/publicacion.xml" value="0.26135310472659873" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

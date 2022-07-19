@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251373258632",
+    "project_id": "pm-pet-club",
+    "storage_bucket": "pm-pet-club.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251373258632:android:01d38d01afb0b0564c5c3d",
+        "android_client_info": {
+          "package_name": "pe.edu.ulima.pm.petclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251373258632-ij1mg05b8ijsaomgudokivb2idvvrftd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBofilJN28P0cfLNlQn0hzNx6DH_XUoPlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251373258632-ij1mg05b8ijsaomgudokivb2idvvrftd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

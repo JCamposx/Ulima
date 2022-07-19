@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:icon="@drawable/ic_baseline_pets_24"
+        android:id="@+id/menTodasPublicaciones"
+        android:title="Todos"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menMascotasPerdidas"
+        android:title="Mascotas perdidas"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menMascotasAdopcion"
+        android:title="Mascotas en adopción"
+        app:showAsAction="never"/>
+</menu>
