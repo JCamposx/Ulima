@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Agrupamos dentro de un group con la propiedad checkableBehavior single para que solamente podamos seleccionar un item a la vez -->
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menPlanetas"
+            android:title="Planetas"
+            android:checked="true"/>
+
+        <item
+            android:id="@+id/menNaves"
+            android:title="Naves espaciales"/>
+
+        <item
+            android:id="@+id/menVehiculos"
+            android:title="Vehículos"/>
+
+        <item
+            android:id="@+id/menPersonas"
+            android:title="Personas"/>
+
+        <item
+            android:id="@+id/menPeliculas"
+            android:title="Películas"/>
+
+        <item
+            android:id="@+id/menEspecies"
+            android:title="Especies"/>
+
+        <item
+            android:id="@+id/menLogout"
+            android:title="Logout" />
+    </group>
+
+</menu>
