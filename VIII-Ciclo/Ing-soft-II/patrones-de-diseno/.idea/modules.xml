@@ -6,7 +6,6 @@
       <module fileurl="file://$PROJECT_DIR$/Bridge/Bridge.iml" filepath="$PROJECT_DIR$/Bridge/Bridge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder/Builder.iml" filepath="$PROJECT_DIR$/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Command/Command.iml" filepath="$PROJECT_DIR$/Command/Command.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Ejercicios/Ejercicios.iml" filepath="$PROJECT_DIR$/Ejercicios/Ejercicios.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
