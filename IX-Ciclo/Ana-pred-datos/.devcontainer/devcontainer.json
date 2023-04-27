@@ -7,8 +7,13 @@
 	"features": {
 		"ghcr.io/rocker-org/devcontainer-features/r-apt:0": {},
 		"ghcr.io/rocker-org/devcontainer-features/r-packages:1": {}
-	}
-
+	},
+  "runArgs": [
+    "-v",
+    "/tmp/.X11-unix:/tmp/.X11-unix",
+    "-e",
+    "DISPLAY=${DISPLAY}"
+ ]
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
 
